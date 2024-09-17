@@ -5,3 +5,6 @@ As with some other dotfiles, you should create symbolic links to this folder's f
 I use certain images that are inside the assets folder, but they are placed independently so this repo isn't that big.
 
 ![wezterm](./assets/wezterm.sc.png)
+
+I use wezterm as a multiplatform terminal.
+When using zsh (WSL, MacOS, and other linux distros) I use oh-my-zsh and starship. In git bash i use oh-my-posh.
