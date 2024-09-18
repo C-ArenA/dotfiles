@@ -105,6 +105,8 @@ alias zshconfig="nvim ~/.zshrc"
 # ~/.zshrc
 alias l="ls -Ahx --group-directories-first"
 alias gcmm="git commit -m"
+alias nv="nvim"
+alias vi="nvim"
 eval "$(starship init zsh)"
 export PATH="$PATH:/opt/nvim-linux64/bin"
 export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=#666666'
